@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/" encoding="utf-8">
+ <channel>
+  <atom:link href="http://192.168.2.12:8080/api" rel="self" type="application/rss+xml"/>
+  <title>nZEDb</title>
+  <description>nZEDb API Details</description>
+  <link>http://192.168.2.12:8080/</link>
+  <language>en-gb</language>
+  <webMaster>admin@mvia.ca nZEDb</webMaster>
+  <category>usenet,nzbs,cms,community</category>
+  <generator>nZEDb</generator>
+  <ttl>10</ttl>
+  <docs>http://192.168.2.12:8080/apihelp/</docs>
+  <image url="http://192.168.2.12:8080/themes/shared/img/logo.png" title="nZEDb" link="http://192.168.2.12:8080/" description="Visit nZEDb - A great usenet indexer"/>
+  <newznab:response offset="0" total="3034"/>
+  <newznab:apilimits apiCurrent="261" apiMax="1000" grabCurrent="0" grabMax="1000"/>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/802312b7337cbe64092f8f7db8bc4d79fe686e30</guid>
+   <link>http://192.168.2.12:8080/getnzb/802312b7337cbe64092f8f7db8bc4d79fe686e30.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/802312b7337cbe64092f8f7db8bc4d79fe686e30#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:11:26 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/802312b7337cbe64092f8f7db8bc4d79fe686e30.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1623140713" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1623140713"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/e3993168506db3e619b424cbb5eda903b3e3b9b4</guid>
+   <link>http://192.168.2.12:8080/getnzb/e3993168506db3e619b424cbb5eda903b3e3b9b4.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/e3993168506db3e619b424cbb5eda903b3e3b9b4#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:14:16 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/e3993168506db3e619b424cbb5eda903b3e3b9b4.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="742551129" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="742551129"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/3f552e0fbbae08773daec5486bb8149c496a61e8</guid>
+   <link>http://192.168.2.12:8080/getnzb/3f552e0fbbae08773daec5486bb8149c496a61e8.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/3f552e0fbbae08773daec5486bb8149c496a61e8#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:57:41 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/3f552e0fbbae08773daec5486bb8149c496a61e8.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="570520912" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="570520912"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/fcd401b39768a00a004013ceab897d03a42f5959</guid>
+   <link>http://192.168.2.12:8080/getnzb/fcd401b39768a00a004013ceab897d03a42f5959.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/fcd401b39768a00a004013ceab897d03a42f5959#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:14:16 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/fcd401b39768a00a004013ceab897d03a42f5959.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1068015273" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1068015273"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/01c706c95b2c99c08d3dfc3c3fd40619218eb97f</guid>
+   <link>http://192.168.2.12:8080/getnzb/01c706c95b2c99c08d3dfc3c3fd40619218eb97f.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/01c706c95b2c99c08d3dfc3c3fd40619218eb97f#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:12:51 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/01c706c95b2c99c08d3dfc3c3fd40619218eb97f.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1044147399" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1044147399"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/d9e8586e5523c2ef05d4a64a05802cb6b07d7ae9</guid>
+   <link>http://192.168.2.12:8080/getnzb/d9e8586e5523c2ef05d4a64a05802cb6b07d7ae9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/d9e8586e5523c2ef05d4a64a05802cb6b07d7ae9#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:00:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/d9e8586e5523c2ef05d4a64a05802cb6b07d7ae9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1110457818" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1110457818"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/97f50cbc30f7b19b6a6e56b2556d09e08e99d63d</guid>
+   <link>http://192.168.2.12:8080/getnzb/97f50cbc30f7b19b6a6e56b2556d09e08e99d63d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/97f50cbc30f7b19b6a6e56b2556d09e08e99d63d#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:00:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/97f50cbc30f7b19b6a6e56b2556d09e08e99d63d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1167795781" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1167795781"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/f4729281508090daf68ede2cbd7f84864b9a6eb9</guid>
+   <link>http://192.168.2.12:8080/getnzb/f4729281508090daf68ede2cbd7f84864b9a6eb9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/f4729281508090daf68ede2cbd7f84864b9a6eb9#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:44:37 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/f4729281508090daf68ede2cbd7f84864b9a6eb9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1067864868" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1067864868"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/668357d91c1d6df6186f7180cf95a3bbee3023f1</guid>
+   <link>http://192.168.2.12:8080/getnzb/668357d91c1d6df6186f7180cf95a3bbee3023f1.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/668357d91c1d6df6186f7180cf95a3bbee3023f1#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:59:05 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/668357d91c1d6df6186f7180cf95a3bbee3023f1.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="657737327" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="657737327"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/34bd87bcf284985abbef9932d47dd5404540ca72</guid>
+   <link>http://192.168.2.12:8080/getnzb/34bd87bcf284985abbef9932d47dd5404540ca72.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/34bd87bcf284985abbef9932d47dd5404540ca72#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:00:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/34bd87bcf284985abbef9932d47dd5404540ca72.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="657842325" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="657842325"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/ea6d3f17c71c0610226fd8d7a17e59a3ff55b6ae</guid>
+   <link>http://192.168.2.12:8080/getnzb/ea6d3f17c71c0610226fd8d7a17e59a3ff55b6ae.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/ea6d3f17c71c0610226fd8d7a17e59a3ff55b6ae#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:46:01 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/ea6d3f17c71c0610226fd8d7a17e59a3ff55b6ae.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1254862010" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1254862010"/>
+  </item>
+  <item>
+   <title>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/8279f1f53fdf8621edc8a31bc4154ff3df213d7d</guid>
+   <link>http://192.168.2.12:8080/getnzb/8279f1f53fdf8621edc8a31bc4154ff3df213d7d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/8279f1f53fdf8621edc8a31bc4154ff3df213d7d#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:44:37 +0100</pubDate>
+   <category>TV &gt; Other</category>
+   <description>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/8279f1f53fdf8621edc8a31bc4154ff3df213d7d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="358507719" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5999"/>
+   <newznab:attr name="size" value="358507719"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/22841b2a6f7210e2276460f199023fc8e53fd70b</guid>
+   <link>http://192.168.2.12:8080/getnzb/22841b2a6f7210e2276460f199023fc8e53fd70b.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/22841b2a6f7210e2276460f199023fc8e53fd70b#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:46:00 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/22841b2a6f7210e2276460f199023fc8e53fd70b.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2446882391" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2446882391"/>
+  </item>
+  <item>
+   <title>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/5671d76f2cab3b174296facf8fec4178cef78ac7</guid>
+   <link>http://192.168.2.12:8080/getnzb/5671d76f2cab3b174296facf8fec4178cef78ac7.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/5671d76f2cab3b174296facf8fec4178cef78ac7#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:29:51 +0100</pubDate>
+   <category>TV &gt; Other</category>
+   <description>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/5671d76f2cab3b174296facf8fec4178cef78ac7.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="416813155" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5999"/>
+   <newznab:attr name="size" value="416813155"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/bbdce5a44afaa957d105cc3340318e5f27d3af49</guid>
+   <link>http://192.168.2.12:8080/getnzb/bbdce5a44afaa957d105cc3340318e5f27d3af49.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/bbdce5a44afaa957d105cc3340318e5f27d3af49#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:29:51 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/bbdce5a44afaa957d105cc3340318e5f27d3af49.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1421345451" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1421345451"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/0e488f65de6600a57086d1e32319c6783fcb0b0c</guid>
+   <link>http://192.168.2.12:8080/getnzb/0e488f65de6600a57086d1e32319c6783fcb0b0c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/0e488f65de6600a57086d1e32319c6783fcb0b0c#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:29:51 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/0e488f65de6600a57086d1e32319c6783fcb0b0c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1374868491" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1374868491"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/3a00df03841538233a3de874390cf277822b4b05</guid>
+   <link>http://192.168.2.12:8080/getnzb/3a00df03841538233a3de874390cf277822b4b05.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/3a00df03841538233a3de874390cf277822b4b05#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:47:26 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/3a00df03841538233a3de874390cf277822b4b05.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1715732531" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1715732531"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/18dd007c1a33190a60306a22156ec88c90fcf241</guid>
+   <link>http://192.168.2.12:8080/getnzb/18dd007c1a33190a60306a22156ec88c90fcf241.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/18dd007c1a33190a60306a22156ec88c90fcf241#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:29:51 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/18dd007c1a33190a60306a22156ec88c90fcf241.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1512446473" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1512446473"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/4050b3ad0783ebd2e7fbd539f3c579bbe10e3170</guid>
+   <link>http://192.168.2.12:8080/getnzb/4050b3ad0783ebd2e7fbd539f3c579bbe10e3170.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/4050b3ad0783ebd2e7fbd539f3c579bbe10e3170#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:47:26 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/4050b3ad0783ebd2e7fbd539f3c579bbe10e3170.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="896859201" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="896859201"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/38b52b26d2dd2160e4802f4b250f686264254d88</guid>
+   <link>http://192.168.2.12:8080/getnzb/38b52b26d2dd2160e4802f4b250f686264254d88.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/38b52b26d2dd2160e4802f4b250f686264254d88#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:47:26 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/38b52b26d2dd2160e4802f4b250f686264254d88.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1170419547" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1170419547"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/55c4dad8dd3b634e9b685fdececdf8c782e10c27</guid>
+   <link>http://192.168.2.12:8080/getnzb/55c4dad8dd3b634e9b685fdececdf8c782e10c27.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/55c4dad8dd3b634e9b685fdececdf8c782e10c27#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:46:00 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/55c4dad8dd3b634e9b685fdececdf8c782e10c27.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1829196803" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1829196803"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/082fb299308f697a9a5d88b11cd571bc591462a2</guid>
+   <link>http://192.168.2.12:8080/getnzb/082fb299308f697a9a5d88b11cd571bc591462a2.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/082fb299308f697a9a5d88b11cd571bc591462a2#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:29:51 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/082fb299308f697a9a5d88b11cd571bc591462a2.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1482656034" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1482656034"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/2b193e4479a245b99e7e199b625a9bcc14ec9758</guid>
+   <link>http://192.168.2.12:8080/getnzb/2b193e4479a245b99e7e199b625a9bcc14ec9758.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/2b193e4479a245b99e7e199b625a9bcc14ec9758#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:47:26 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/2b193e4479a245b99e7e199b625a9bcc14ec9758.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2573616974" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2573616974"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/b7e6daa1275afb791efb5055f5a5d8f9f06b2889</guid>
+   <link>http://192.168.2.12:8080/getnzb/b7e6daa1275afb791efb5055f5a5d8f9f06b2889.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/b7e6daa1275afb791efb5055f5a5d8f9f06b2889#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:47:26 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/b7e6daa1275afb791efb5055f5a5d8f9f06b2889.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1464958753" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1464958753"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/ec57569ea8be41f2b6962b03c4450d25b3052bf9</guid>
+   <link>http://192.168.2.12:8080/getnzb/ec57569ea8be41f2b6962b03c4450d25b3052bf9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/ec57569ea8be41f2b6962b03c4450d25b3052bf9#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:44:37 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/ec57569ea8be41f2b6962b03c4450d25b3052bf9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1098288276" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1098288276"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/04087721f642a02f48e59eac977e4fa97cbb5227</guid>
+   <link>http://192.168.2.12:8080/getnzb/04087721f642a02f48e59eac977e4fa97cbb5227.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/04087721f642a02f48e59eac977e4fa97cbb5227#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:44:37 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/04087721f642a02f48e59eac977e4fa97cbb5227.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1209781613" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1209781613"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/df2141a5475f23a6e669c68b286452eab7c7a5bb</guid>
+   <link>http://192.168.2.12:8080/getnzb/df2141a5475f23a6e669c68b286452eab7c7a5bb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/df2141a5475f23a6e669c68b286452eab7c7a5bb#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:44:37 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/df2141a5475f23a6e669c68b286452eab7c7a5bb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1567617216" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1567617216"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/029638389ef941f8ff4cae056c31b0d4c15c294c</guid>
+   <link>http://192.168.2.12:8080/getnzb/029638389ef941f8ff4cae056c31b0d4c15c294c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/029638389ef941f8ff4cae056c31b0d4c15c294c#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:29:51 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/029638389ef941f8ff4cae056c31b0d4c15c294c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1476711560" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1476711560"/>
+  </item>
+  <item>
+   <title>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/dd0438779d717ae74ca482e924297c76eb4af642</guid>
+   <link>http://192.168.2.12:8080/getnzb/dd0438779d717ae74ca482e924297c76eb4af642.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/dd0438779d717ae74ca482e924297c76eb4af642#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:18 +0100</pubDate>
+   <category>TV &gt; Other</category>
+   <description>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/dd0438779d717ae74ca482e924297c76eb4af642.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="400476635" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5999"/>
+   <newznab:attr name="size" value="400476635"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/8d7e79b6cb33e79d83f39fb308ccac1f1f42948a</guid>
+   <link>http://192.168.2.12:8080/getnzb/8d7e79b6cb33e79d83f39fb308ccac1f1f42948a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/8d7e79b6cb33e79d83f39fb308ccac1f1f42948a#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:18 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/8d7e79b6cb33e79d83f39fb308ccac1f1f42948a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1118763209" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1118763209"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/2e98459025c136228d94a1ce0c5a7fc1eeb936fc</guid>
+   <link>http://192.168.2.12:8080/getnzb/2e98459025c136228d94a1ce0c5a7fc1eeb936fc.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/2e98459025c136228d94a1ce0c5a7fc1eeb936fc#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:18 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/2e98459025c136228d94a1ce0c5a7fc1eeb936fc.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1783752335" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1783752335"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/b973d8cbc6b28ac7dfe804ff493d90001bdfdc08</guid>
+   <link>http://192.168.2.12:8080/getnzb/b973d8cbc6b28ac7dfe804ff493d90001bdfdc08.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/b973d8cbc6b28ac7dfe804ff493d90001bdfdc08#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:17 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/b973d8cbc6b28ac7dfe804ff493d90001bdfdc08.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1118049168" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1118049168"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/df8edb053694ef1daab565b0f349bf3a9bfe50b1</guid>
+   <link>http://192.168.2.12:8080/getnzb/df8edb053694ef1daab565b0f349bf3a9bfe50b1.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/df8edb053694ef1daab565b0f349bf3a9bfe50b1#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:18 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/df8edb053694ef1daab565b0f349bf3a9bfe50b1.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1274534327" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1274534327"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/a21a1c713ce7bf9b941bf41837c3d58aa9b2c1bf</guid>
+   <link>http://192.168.2.12:8080/getnzb/a21a1c713ce7bf9b941bf41837c3d58aa9b2c1bf.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/a21a1c713ce7bf9b941bf41837c3d58aa9b2c1bf#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:31:15 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/a21a1c713ce7bf9b941bf41837c3d58aa9b2c1bf.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="3004920932" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="3004920932"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/452c6a6f607ea794862c89caf7d2e82478d4c474</guid>
+   <link>http://192.168.2.12:8080/getnzb/452c6a6f607ea794862c89caf7d2e82478d4c474.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/452c6a6f607ea794862c89caf7d2e82478d4c474#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:18 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/452c6a6f607ea794862c89caf7d2e82478d4c474.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1418973626" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1418973626"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/5356a596608c34b96be57c1aa473d99804c8576a</guid>
+   <link>http://192.168.2.12:8080/getnzb/5356a596608c34b96be57c1aa473d99804c8576a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/5356a596608c34b96be57c1aa473d99804c8576a#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:16:18 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/5356a596608c34b96be57c1aa473d99804c8576a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1333191259" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1333191259"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/79f5969b07fcabe7b5a8c4f2debfa1818119ea41</guid>
+   <link>http://192.168.2.12:8080/getnzb/79f5969b07fcabe7b5a8c4f2debfa1818119ea41.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/79f5969b07fcabe7b5a8c4f2debfa1818119ea41#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:31:15 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/79f5969b07fcabe7b5a8c4f2debfa1818119ea41.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1521412627" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1521412627"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/3cff74836aa9e0459d5a5503ca7a99ba41a41abb</guid>
+   <link>http://192.168.2.12:8080/getnzb/3cff74836aa9e0459d5a5503ca7a99ba41a41abb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/3cff74836aa9e0459d5a5503ca7a99ba41a41abb#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/3cff74836aa9e0459d5a5503ca7a99ba41a41abb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1532009259" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1532009259"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/ca9dd0301b30119f4851d853ebe91b6dd39db369</guid>
+   <link>http://192.168.2.12:8080/getnzb/ca9dd0301b30119f4851d853ebe91b6dd39db369.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/ca9dd0301b30119f4851d853ebe91b6dd39db369#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/ca9dd0301b30119f4851d853ebe91b6dd39db369.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1512804421" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1512804421"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/ec457fb768f42f7fbfd96a3eeeaae7692a335722</guid>
+   <link>http://192.168.2.12:8080/getnzb/ec457fb768f42f7fbfd96a3eeeaae7692a335722.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/ec457fb768f42f7fbfd96a3eeeaae7692a335722#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/ec457fb768f42f7fbfd96a3eeeaae7692a335722.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1483116312" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1483116312"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/ef7f13a83483f460be3b3bbfbfa0a9a864ef2b71</guid>
+   <link>http://192.168.2.12:8080/getnzb/ef7f13a83483f460be3b3bbfbfa0a9a864ef2b71.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/ef7f13a83483f460be3b3bbfbfa0a9a864ef2b71#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:18:55 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/ef7f13a83483f460be3b3bbfbfa0a9a864ef2b71.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1250057438" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1250057438"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/e5f4c3390aa07395005ff8471806d48c438f8a4a</guid>
+   <link>http://192.168.2.12:8080/getnzb/e5f4c3390aa07395005ff8471806d48c438f8a4a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/e5f4c3390aa07395005ff8471806d48c438f8a4a#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:18:55 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/e5f4c3390aa07395005ff8471806d48c438f8a4a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1333390083" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1333390083"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/ba8ba1d4632131cd8d11ef819c4c640c91c79979</guid>
+   <link>http://192.168.2.12:8080/getnzb/ba8ba1d4632131cd8d11ef819c4c640c91c79979.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/ba8ba1d4632131cd8d11ef819c4c640c91c79979#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/ba8ba1d4632131cd8d11ef819c4c640c91c79979.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1381064640" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1381064640"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/7cb0308ce148ab40e86119e3b4797c39f9bde2dc</guid>
+   <link>http://192.168.2.12:8080/getnzb/7cb0308ce148ab40e86119e3b4797c39f9bde2dc.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/7cb0308ce148ab40e86119e3b4797c39f9bde2dc#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:18:55 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/7cb0308ce148ab40e86119e3b4797c39f9bde2dc.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1110348354" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1110348354"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/20a960e83b46df7d7cd6bb42b692635046d80bbb</guid>
+   <link>http://192.168.2.12:8080/getnzb/20a960e83b46df7d7cd6bb42b692635046d80bbb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/20a960e83b46df7d7cd6bb42b692635046d80bbb#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:18:55 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/20a960e83b46df7d7cd6bb42b692635046d80bbb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1482856603" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1482856603"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/2c2fae3b4838b74fa8f36ca2e0c5eefed7eab9a6</guid>
+   <link>http://192.168.2.12:8080/getnzb/2c2fae3b4838b74fa8f36ca2e0c5eefed7eab9a6.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/2c2fae3b4838b74fa8f36ca2e0c5eefed7eab9a6#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/2c2fae3b4838b74fa8f36ca2e0c5eefed7eab9a6.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1423127089" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1423127089"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/d9974f0933fae4de637cb7b8d4d4e582295689c8</guid>
+   <link>http://192.168.2.12:8080/getnzb/d9974f0933fae4de637cb7b8d4d4e582295689c8.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/d9974f0933fae4de637cb7b8d4d4e582295689c8#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:18:55 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/d9974f0933fae4de637cb7b8d4d4e582295689c8.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1220651913" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1220651913"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/15101932386269ee6c8f455e545efd829adaed89</guid>
+   <link>http://192.168.2.12:8080/getnzb/15101932386269ee6c8f455e545efd829adaed89.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/15101932386269ee6c8f455e545efd829adaed89#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/15101932386269ee6c8f455e545efd829adaed89.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1439909493" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1439909493"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/5a7ca6c7454fe44445ec8d72c25979359f5d0b9e</guid>
+   <link>http://192.168.2.12:8080/getnzb/5a7ca6c7454fe44445ec8d72c25979359f5d0b9e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/5a7ca6c7454fe44445ec8d72c25979359f5d0b9e#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:17:31 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/5a7ca6c7454fe44445ec8d72c25979359f5d0b9e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="963175371" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="963175371"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/5cc1a0cc484d9932a9002214f4af916ecfc60110</guid>
+   <link>http://192.168.2.12:8080/getnzb/5cc1a0cc484d9932a9002214f4af916ecfc60110.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/5cc1a0cc484d9932a9002214f4af916ecfc60110#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:17:31 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/5cc1a0cc484d9932a9002214f4af916ecfc60110.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="648310834" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="648310834"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/99684ab48229bbfd97d9dffc6b190753bf19d6c4</guid>
+   <link>http://192.168.2.12:8080/getnzb/99684ab48229bbfd97d9dffc6b190753bf19d6c4.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/99684ab48229bbfd97d9dffc6b190753bf19d6c4#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/99684ab48229bbfd97d9dffc6b190753bf19d6c4.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1558278447" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1558278447"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/f82add14de69a7c542afefa2b78fe2a0a2982a30</guid>
+   <link>http://192.168.2.12:8080/getnzb/f82add14de69a7c542afefa2b78fe2a0a2982a30.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/f82add14de69a7c542afefa2b78fe2a0a2982a30#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:17:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/f82add14de69a7c542afefa2b78fe2a0a2982a30.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="961690579" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="961690579"/>
+  </item>
+  <item>
+   <title>The Goddamned - The Virgin Brides 001 (2020) (Digital) (Zone-Empire) (cbr)</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/46b288ff1e5aef08566f285676f57277a1d9226c</guid>
+   <link>http://192.168.2.12:8080/getnzb/46b288ff1e5aef08566f285676f57277a1d9226c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/46b288ff1e5aef08566f285676f57277a1d9226c#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:17:30 +0100</pubDate>
+   <category>Books &gt; Comics</category>
+   <description>The Goddamned - The Virgin Brides 001 (2020) (Digital) (Zone-Empire) (cbr)</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/46b288ff1e5aef08566f285676f57277a1d9226c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="487147502" type="application/x-nzb"/>
+   <newznab:attr name="category" value="7030"/>
+   <newznab:attr name="size" value="487147502"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/9a08f8263db8e5337379d089a89f17899d34d076</guid>
+   <link>http://192.168.2.12:8080/getnzb/9a08f8263db8e5337379d089a89f17899d34d076.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/9a08f8263db8e5337379d089a89f17899d34d076#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:00:13 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/9a08f8263db8e5337379d089a89f17899d34d076.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1517019568" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1517019568"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/06c40691f014f5805611468dd8db247c51d7a62d</guid>
+   <link>http://192.168.2.12:8080/getnzb/06c40691f014f5805611468dd8db247c51d7a62d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/06c40691f014f5805611468dd8db247c51d7a62d#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:45:42 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/06c40691f014f5805611468dd8db247c51d7a62d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2653210070" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2653210070"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/c2b222280c16b5d56c47ab9ba799fc7596ef6dd2</guid>
+   <link>http://192.168.2.12:8080/getnzb/c2b222280c16b5d56c47ab9ba799fc7596ef6dd2.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/c2b222280c16b5d56c47ab9ba799fc7596ef6dd2#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:45:42 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/c2b222280c16b5d56c47ab9ba799fc7596ef6dd2.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1151887753" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1151887753"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/b86a5c7f5c45c5cca98b3045eb1358953c40a495</guid>
+   <link>http://192.168.2.12:8080/getnzb/b86a5c7f5c45c5cca98b3045eb1358953c40a495.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/b86a5c7f5c45c5cca98b3045eb1358953c40a495#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:45:42 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/b86a5c7f5c45c5cca98b3045eb1358953c40a495.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2469341348" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2469341348"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/aaabff9e341721b5c1d00e4cab1f6321e3a82803</guid>
+   <link>http://192.168.2.12:8080/getnzb/aaabff9e341721b5c1d00e4cab1f6321e3a82803.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/aaabff9e341721b5c1d00e4cab1f6321e3a82803#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:48:32 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/aaabff9e341721b5c1d00e4cab1f6321e3a82803.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="463740455" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="463740455"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/e8b5c591815b01f6a0e33f6a1e353f573f7cfe46</guid>
+   <link>http://192.168.2.12:8080/getnzb/e8b5c591815b01f6a0e33f6a1e353f573f7cfe46.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/e8b5c591815b01f6a0e33f6a1e353f573f7cfe46#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:45:42 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/e8b5c591815b01f6a0e33f6a1e353f573f7cfe46.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2565960788" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2565960788"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/f00775d3c482dd9bf7237c2d0345c2f9bdf2c4e4</guid>
+   <link>http://192.168.2.12:8080/getnzb/f00775d3c482dd9bf7237c2d0345c2f9bdf2c4e4.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/f00775d3c482dd9bf7237c2d0345c2f9bdf2c4e4#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:31:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/f00775d3c482dd9bf7237c2d0345c2f9bdf2c4e4.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2831125389" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2831125389"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/6f46942d72f3686f56c7facc44326145e0542cdb</guid>
+   <link>http://192.168.2.12:8080/getnzb/6f46942d72f3686f56c7facc44326145e0542cdb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/6f46942d72f3686f56c7facc44326145e0542cdb#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:33:08 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/6f46942d72f3686f56c7facc44326145e0542cdb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="672034236" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="672034236"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/b70effca457b4f73445bceb8b434860323f01b72</guid>
+   <link>http://192.168.2.12:8080/getnzb/b70effca457b4f73445bceb8b434860323f01b72.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/b70effca457b4f73445bceb8b434860323f01b72#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:31:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/b70effca457b4f73445bceb8b434860323f01b72.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2783155468" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2783155468"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/2a1c554ca0764ba7c285fc522d3fd8473b45bdab</guid>
+   <link>http://192.168.2.12:8080/getnzb/2a1c554ca0764ba7c285fc522d3fd8473b45bdab.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/2a1c554ca0764ba7c285fc522d3fd8473b45bdab#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:31:30 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/2a1c554ca0764ba7c285fc522d3fd8473b45bdab.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2821024212" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2821024212"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/b96cd0a54611a6f04561bc5c29878d99d0ca9f9c</guid>
+   <link>http://192.168.2.12:8080/getnzb/b96cd0a54611a6f04561bc5c29878d99d0ca9f9c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/b96cd0a54611a6f04561bc5c29878d99d0ca9f9c#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:17:44 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/b96cd0a54611a6f04561bc5c29878d99d0ca9f9c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="628527401" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="628527401"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/029a1eec915c9c860f4b1ca3805a2f75f201eeae</guid>
+   <link>http://192.168.2.12:8080/getnzb/029a1eec915c9c860f4b1ca3805a2f75f201eeae.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/029a1eec915c9c860f4b1ca3805a2f75f201eeae#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:34:31 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/029a1eec915c9c860f4b1ca3805a2f75f201eeae.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1849866068" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1849866068"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/86e12563329470713299696691e01620500909f9</guid>
+   <link>http://192.168.2.12:8080/getnzb/86e12563329470713299696691e01620500909f9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/86e12563329470713299696691e01620500909f9#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:17:44 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/86e12563329470713299696691e01620500909f9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1383755141" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1383755141"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/940524a7917566f8574718d181e495262b97c167</guid>
+   <link>http://192.168.2.12:8080/getnzb/940524a7917566f8574718d181e495262b97c167.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/940524a7917566f8574718d181e495262b97c167#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:34:31 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/940524a7917566f8574718d181e495262b97c167.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1485534220" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1485534220"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/c8c6199f5e63c783a253c2ad0d43e9d69782bcb0</guid>
+   <link>http://192.168.2.12:8080/getnzb/c8c6199f5e63c783a253c2ad0d43e9d69782bcb0.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/c8c6199f5e63c783a253c2ad0d43e9d69782bcb0#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:34:31 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/c8c6199f5e63c783a253c2ad0d43e9d69782bcb0.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="3035982168" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="3035982168"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/7f7c59bea888f33505891e3067ce32feeb31cd30</guid>
+   <link>http://192.168.2.12:8080/getnzb/7f7c59bea888f33505891e3067ce32feeb31cd30.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/7f7c59bea888f33505891e3067ce32feeb31cd30#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:17:44 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/7f7c59bea888f33505891e3067ce32feeb31cd30.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2781326164" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2781326164"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/04abb62a171307cb2d8378493e407206748d92dc</guid>
+   <link>http://192.168.2.12:8080/getnzb/04abb62a171307cb2d8378493e407206748d92dc.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/04abb62a171307cb2d8378493e407206748d92dc#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:17:44 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/04abb62a171307cb2d8378493e407206748d92dc.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2720455641" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2720455641"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/fe5aa268c48d127c72f8cbbc64be0919004e323a</guid>
+   <link>http://192.168.2.12:8080/getnzb/fe5aa268c48d127c72f8cbbc64be0919004e323a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/fe5aa268c48d127c72f8cbbc64be0919004e323a#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:34:31 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/fe5aa268c48d127c72f8cbbc64be0919004e323a.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1350713748" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1350713748"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/4e49618a5c1677c30cb1a92d224e0b6a0e73c891</guid>
+   <link>http://192.168.2.12:8080/getnzb/4e49618a5c1677c30cb1a92d224e0b6a0e73c891.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/4e49618a5c1677c30cb1a92d224e0b6a0e73c891#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:17:44 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/4e49618a5c1677c30cb1a92d224e0b6a0e73c891.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2634023938" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2634023938"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/da2f4e882e3ca7143b0b4474352dd3ac91961115</guid>
+   <link>http://192.168.2.12:8080/getnzb/da2f4e882e3ca7143b0b4474352dd3ac91961115.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/da2f4e882e3ca7143b0b4474352dd3ac91961115#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:05:07 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/da2f4e882e3ca7143b0b4474352dd3ac91961115.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2811781698" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2811781698"/>
+  </item>
+  <item>
+   <title>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/1282ee861652602b75ca132f68652ccc29945696</guid>
+   <link>http://192.168.2.12:8080/getnzb/1282ee861652602b75ca132f68652ccc29945696.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/1282ee861652602b75ca132f68652ccc29945696#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:05:07 +0100</pubDate>
+   <category>TV &gt; Other</category>
+   <description>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/1282ee861652602b75ca132f68652ccc29945696.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="382435987" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5999"/>
+   <newznab:attr name="size" value="382435987"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/346854c9419efca90792b29ccf2f0deb75f43fcd</guid>
+   <link>http://192.168.2.12:8080/getnzb/346854c9419efca90792b29ccf2f0deb75f43fcd.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/346854c9419efca90792b29ccf2f0deb75f43fcd#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:05:07 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/346854c9419efca90792b29ccf2f0deb75f43fcd.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1263103837" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1263103837"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/6c8067a07edcb7f1c0b945a6a46bc36c90e73c7c</guid>
+   <link>http://192.168.2.12:8080/getnzb/6c8067a07edcb7f1c0b945a6a46bc36c90e73c7c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/6c8067a07edcb7f1c0b945a6a46bc36c90e73c7c#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:17:44 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/6c8067a07edcb7f1c0b945a6a46bc36c90e73c7c.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1849865685" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1849865685"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/5c106f75c2914c5666ead447537df1fa2d3a4dbb</guid>
+   <link>http://192.168.2.12:8080/getnzb/5c106f75c2914c5666ead447537df1fa2d3a4dbb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/5c106f75c2914c5666ead447537df1fa2d3a4dbb#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:51:16 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/5c106f75c2914c5666ead447537df1fa2d3a4dbb.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1877363819" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1877363819"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/6eaf0028f9e07f771e47475645b1fffdfd9519d2</guid>
+   <link>http://192.168.2.12:8080/getnzb/6eaf0028f9e07f771e47475645b1fffdfd9519d2.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/6eaf0028f9e07f771e47475645b1fffdfd9519d2#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 09:50:53 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/6eaf0028f9e07f771e47475645b1fffdfd9519d2.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2547164909" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2547164909"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/9d9b8a7db7c376197355968eac08fac5184c328b</guid>
+   <link>http://192.168.2.12:8080/getnzb/9d9b8a7db7c376197355968eac08fac5184c328b.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/9d9b8a7db7c376197355968eac08fac5184c328b#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:06:34 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/9d9b8a7db7c376197355968eac08fac5184c328b.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2832612653" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2832612653"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/a7187d2e2cbe48866a35bd4a32a6930165e69f42</guid>
+   <link>http://192.168.2.12:8080/getnzb/a7187d2e2cbe48866a35bd4a32a6930165e69f42.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/a7187d2e2cbe48866a35bd4a32a6930165e69f42#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 09:50:53 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/a7187d2e2cbe48866a35bd4a32a6930165e69f42.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2832158340" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2832158340"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/1baacd9a0c13fdc7e268f9c71654982662b1cbd0</guid>
+   <link>http://192.168.2.12:8080/getnzb/1baacd9a0c13fdc7e268f9c71654982662b1cbd0.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/1baacd9a0c13fdc7e268f9c71654982662b1cbd0#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:05:07 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/1baacd9a0c13fdc7e268f9c71654982662b1cbd0.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1380682447" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1380682447"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/1d5dbd52cce49370675b92530c0e1b728efe4919</guid>
+   <link>http://192.168.2.12:8080/getnzb/1d5dbd52cce49370675b92530c0e1b728efe4919.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/1d5dbd52cce49370675b92530c0e1b728efe4919#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:05:07 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/1d5dbd52cce49370675b92530c0e1b728efe4919.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="811715326" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="811715326"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/775cbe4369688fb5ff9046915b9375f47083ec9d</guid>
+   <link>http://192.168.2.12:8080/getnzb/775cbe4369688fb5ff9046915b9375f47083ec9d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/775cbe4369688fb5ff9046915b9375f47083ec9d#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:05:07 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/775cbe4369688fb5ff9046915b9375f47083ec9d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2706530807" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2706530807"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/4c93a30701665e162a3694d2f938a67482d511f6</guid>
+   <link>http://192.168.2.12:8080/getnzb/4c93a30701665e162a3694d2f938a67482d511f6.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/4c93a30701665e162a3694d2f938a67482d511f6#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 09:50:53 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/4c93a30701665e162a3694d2f938a67482d511f6.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2706138814" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2706138814"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/869cc3a516377e2f3bd846d7202578fb910933a0</guid>
+   <link>http://192.168.2.12:8080/getnzb/869cc3a516377e2f3bd846d7202578fb910933a0.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/869cc3a516377e2f3bd846d7202578fb910933a0#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:06:12 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/869cc3a516377e2f3bd846d7202578fb910933a0.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2131408672" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2131408672"/>
+  </item>
+  <item>
+   <title>abook.link - 740b536450e5483191 [1/62] &quot;abook.link - 740b536450e5483191.par2&quot;</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/fd9d642f1bef909f0f4f3064c204c6046cceea62</guid>
+   <link>http://192.168.2.12:8080/getnzb/fd9d642f1bef909f0f4f3064c204c6046cceea62.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/fd9d642f1bef909f0f4f3064c204c6046cceea62#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 12:03:07 +0100</pubDate>
+   <category>Audio &gt; MP3</category>
+   <description>abook.link - 740b536450e5483191 [1/62] &quot;abook.link - 740b536450e5483191.par2&quot;</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/fd9d642f1bef909f0f4f3064c204c6046cceea62.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="5979578458" type="application/x-nzb"/>
+   <newznab:attr name="category" value="3010"/>
+   <newznab:attr name="size" value="5979578458"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/6904d2d87dbe5d19daba8125c2289aef84ce4c95</guid>
+   <link>http://192.168.2.12:8080/getnzb/6904d2d87dbe5d19daba8125c2289aef84ce4c95.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/6904d2d87dbe5d19daba8125c2289aef84ce4c95#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:51:16 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/6904d2d87dbe5d19daba8125c2289aef84ce4c95.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="503782398" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="503782398"/>
+  </item>
+  <item>
+   <title>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/df3e4ebf33ec3dbe1fbe2cc78fd5f4292701628e</guid>
+   <link>http://192.168.2.12:8080/getnzb/df3e4ebf33ec3dbe1fbe2cc78fd5f4292701628e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/df3e4ebf33ec3dbe1fbe2cc78fd5f4292701628e#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 09:52:17 +0100</pubDate>
+   <category>TV &gt; Other</category>
+   <description>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/df3e4ebf33ec3dbe1fbe2cc78fd5f4292701628e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="416882766" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5999"/>
+   <newznab:attr name="size" value="416882766"/>
+  </item>
+  <item>
+   <title>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/61c2b470dcf926b9ed1488b28380b22936e17633</guid>
+   <link>http://192.168.2.12:8080/getnzb/61c2b470dcf926b9ed1488b28380b22936e17633.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/61c2b470dcf926b9ed1488b28380b22936e17633#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 09:40:25 +0100</pubDate>
+   <category>TV &gt; Other</category>
+   <description>Elementary.S04E01.Spaete.Gerechtigkeit.GERMAN.DUBBED.WebHDRiP.x264-SOF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/61c2b470dcf926b9ed1488b28380b22936e17633.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="356475738" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5999"/>
+   <newznab:attr name="size" value="356475738"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/46a50e345666b18e649da32cdb479c098657c7c5</guid>
+   <link>http://192.168.2.12:8080/getnzb/46a50e345666b18e649da32cdb479c098657c7c5.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/46a50e345666b18e649da32cdb479c098657c7c5#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 10:06:34 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/46a50e345666b18e649da32cdb479c098657c7c5.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="519549310" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="519549310"/>
+  </item>
+  <item>
+   <title>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/34355257de5e3cc960fb4807d1e9b83348a1414e</guid>
+   <link>http://192.168.2.12:8080/getnzb/34355257de5e3cc960fb4807d1e9b83348a1414e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/34355257de5e3cc960fb4807d1e9b83348a1414e#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 09:40:25 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>CU46.See.you.for.Sex.German.2015.DVDRiP.x264-SAViOUR</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/34355257de5e3cc960fb4807d1e9b83348a1414e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1081233937" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1081233937"/>
+  </item>
+  <item>
+   <title>(Hilly)[00/32] - &quot;82KUR9A63VN4P75X.nzb&quot;</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/43761d9af83166d751e0fcb24c4875929eb1da04</guid>
+   <link>http://192.168.2.12:8080/getnzb/43761d9af83166d751e0fcb24c4875929eb1da04.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/43761d9af83166d751e0fcb24c4875929eb1da04#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:54:04 +0100</pubDate>
+   <category>XXX &gt; Other</category>
+   <description>(Hilly)[00/32] - &quot;82KUR9A63VN4P75X.nzb&quot;</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/43761d9af83166d751e0fcb24c4875929eb1da04.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="5443384858" type="application/x-nzb"/>
+   <newznab:attr name="category" value="6999"/>
+   <newznab:attr name="size" value="5443384858"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/52e7f4632ca7549c78e0f2e79f3025e0ca62ceb5</guid>
+   <link>http://192.168.2.12:8080/getnzb/52e7f4632ca7549c78e0f2e79f3025e0ca62ceb5.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/52e7f4632ca7549c78e0f2e79f3025e0ca62ceb5#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:26:58 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/52e7f4632ca7549c78e0f2e79f3025e0ca62ceb5.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="590864395" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="590864395"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/92b0a45abac3fc56ff8ed472524fe5d640414716</guid>
+   <link>http://192.168.2.12:8080/getnzb/92b0a45abac3fc56ff8ed472524fe5d640414716.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/92b0a45abac3fc56ff8ed472524fe5d640414716#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:26:58 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/92b0a45abac3fc56ff8ed472524fe5d640414716.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="1385368981" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="1385368981"/>
+  </item>
+  <item>
+   <title>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/07b099c5276debc7deb59040e3556757981f7f63</guid>
+   <link>http://192.168.2.12:8080/getnzb/07b099c5276debc7deb59040e3556757981f7f63.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/07b099c5276debc7deb59040e3556757981f7f63#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:26:58 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Verdammt.Die.Zombies.Kommen.GERMAN.1985.DL.BDRiP.x264.INTERNAL-GOREHOUNDSx</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/07b099c5276debc7deb59040e3556757981f7f63.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="2754082104" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="2754082104"/>
+  </item>
+  <item>
+   <title>Amphibia.S02E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-TVSmash</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/76bd71ad9923aeff8b0d971562b5adc194abecb9</guid>
+   <link>http://192.168.2.12:8080/getnzb/76bd71ad9923aeff8b0d971562b5adc194abecb9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/76bd71ad9923aeff8b0d971562b5adc194abecb9#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:37:41 +0100</pubDate>
+   <category>TV &gt; WEB-DL</category>
+   <description>Amphibia.S02E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-TVSmash</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/76bd71ad9923aeff8b0d971562b5adc194abecb9.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="583058465" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5010"/>
+   <newznab:attr name="size" value="583058465"/>
+  </item>
+  <item>
+   <title>(Hilly)[01/35] - &quot;W8M4RP269ABL537QG.par2&quot;</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/331127ef43efe6e21833b10f03612c802999666e</guid>
+   <link>http://192.168.2.12:8080/getnzb/331127ef43efe6e21833b10f03612c802999666e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/331127ef43efe6e21833b10f03612c802999666e#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:37:41 +0100</pubDate>
+   <category>XXX &gt; Other</category>
+   <description>(Hilly)[01/35] - &quot;W8M4RP269ABL537QG.par2&quot;</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/331127ef43efe6e21833b10f03612c802999666e.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="3042564024" type="application/x-nzb"/>
+   <newznab:attr name="category" value="6999"/>
+   <newznab:attr name="size" value="3042564024"/>
+  </item>
+  <item>
+   <title>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/c284960569b45b874d953febaaf23837684640ed</guid>
+   <link>http://192.168.2.12:8080/getnzb/c284960569b45b874d953febaaf23837684640ed.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/c284960569b45b874d953febaaf23837684640ed#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 08:56:45 +0100</pubDate>
+   <category>Movies &gt; Foreign</category>
+   <description>Um.jeden.Preis.German.2014.AC3.BDRiP.x264-XF</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/c284960569b45b874d953febaaf23837684640ed.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="783975385" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2010"/>
+   <newznab:attr name="size" value="783975385"/>
+  </item>
+  <item>
+   <title>Bering.Sea.Gold.S12E10.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/2ae08d369fa1ccd078a34e64c316ac36d0a06111</guid>
+   <link>http://192.168.2.12:8080/getnzb/2ae08d369fa1ccd078a34e64c316ac36d0a06111.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/2ae08d369fa1ccd078a34e64c316ac36d0a06111#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:37:41 +0100</pubDate>
+   <category>TV &gt; WEB-DL</category>
+   <description>Bering.Sea.Gold.S12E10.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/2ae08d369fa1ccd078a34e64c316ac36d0a06111.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="3561815998" type="application/x-nzb"/>
+   <newznab:attr name="category" value="5010"/>
+   <newznab:attr name="size" value="3561815998"/>
+  </item>
+  <item>
+   <title>(Hilly)[01/37] - &quot;L5D3E76P82T9XJM4U.par2&quot;</title>
+   <guid isPermaLink="true">http://192.168.2.12:8080/details/5db126c885221b35cd4d617775db9d0052f33a9d</guid>
+   <link>http://192.168.2.12:8080/getnzb/5db126c885221b35cd4d617775db9d0052f33a9d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125</link>
+   <comments>http://192.168.2.12:8080/details/5db126c885221b35cd4d617775db9d0052f33a9d#comments</comments>
+   <pubDate>Tue, 14 Jul 2020 11:26:58 +0100</pubDate>
+   <category>XXX &gt; Other</category>
+   <description>(Hilly)[01/37] - &quot;L5D3E76P82T9XJM4U.par2&quot;</description>
+   <enclosure url="http://192.168.2.12:8080/getnzb/5db126c885221b35cd4d617775db9d0052f33a9d.nzb&amp;i=1&amp;r=25b01a2a137c0d48a8a9de404bb5a125" length="3309593404" type="application/x-nzb"/>
+   <newznab:attr name="category" value="6999"/>
+   <newznab:attr name="size" value="3309593404"/>
+  </item>
+ </channel>
+</rss>
