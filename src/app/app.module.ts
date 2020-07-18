@@ -8,22 +8,35 @@ import { MatMenuModule } from '@angular/material/menu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MainComponent } from './main/main.component';
 import { HttpClientModule } from '@angular/common/http';
+import { ToolbarComponent } from './toolbar/toolbar.component';
+import { MatDividerModule } from '@angular/material/divider';
+import { FormsModule } from '@angular/forms';
+import { RssComponent } from './rss/rss.component';
+import { StatusComponent } from './status/status.component';
+import { SanitizeHtmlPipe } from './pipe/sanitize-html.pipe';
+import { TvComponent } from './tv/tv.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ContactComponent,
-    MainComponent
+    MainComponent,
+    ToolbarComponent,
+    StatusComponent,
+    RssComponent,
+    SanitizeHtmlPipe,
+    TvComponent
   ],
   imports: [
     BrowserModule,
+    FormsModule,
     AppRoutingModule,
     MatMenuModule,
     BrowserAnimationsModule,
-    HttpClientModule
-
+    HttpClientModule,
+    MatDividerModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule { }

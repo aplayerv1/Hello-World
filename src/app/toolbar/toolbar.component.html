@@ -1,0 +1,35 @@
+<div class="toolbar" role="banner">
+  <img routeLink="main" alt="MVIA Logo" src=".\assets\logo.png" />
+  <mat-menu #menu="matMenu"></mat-menu>
+
+
+  <div class="dropdown">
+    <button class="button">Menu</button>
+    <div class="dropdown-content">
+      <button mat-menu-item routerLink="status">Status</button>
+      <button mat-menu-item routerLink="rss">Nzb</button>
+      <button mat-menu-item routerLink="">Settings</button>
+    </div>
+  </div>
+
+  <button class="button" routerLink="contact">Contact</button>
+
+  <mat-divider class="vertical-divider"></mat-divider>
+
+  <button class="button">TV</button>
+  <button class="button">Movies</button>
+  <button class="button">Books</button>
+  <button class="button">Audio</button>
+  <button class="button">PC</button>
+  <button class="button">Console</button>
+  <button class="button">XXX</button>
+
+  <mat-divider class="vertical-divider"></mat-divider>
+
+  <span class="filler"></span>
+  <div class="topnav">
+    <input type="text" placeholder="Search..">
+  </div>
+
+  <button class="button" type="submit">Submit</button>
+</div>

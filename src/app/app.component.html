@@ -1,44 +1,5 @@
-<div class="toolbar" role="banner">
-  <img width="40" routeLink="main" alt="Angular Logo" src=".\assets\logo.png" />
-  <mat-menu  #menu="matMenu">
-  </mat-menu>
-
-
-  <div class="dropdown">
-    <button class="button">Menu</button>
-    <div class="dropdown-content">
-    <button mat-menu-item routerLink="status">Status</button>
-    <button mat-menu-item routerLink="rss">Nzb</button>
-    <button mat-menu-item routerLink="">Settings</button>
-    </div>
-  </div>
-
-  <button class="button" routerLink="contact">Contact</button>
-
-  <md-divider class="vertical-divider"></md-divider>
-
-  <button class="button" >TV</button>
-  <button class="button" >Movies</button>
-  <button class="button" >Books</button>
-  <button class="button" >Audio</button>
-  <button class="button" >PC</button>
-  <button class="button" >Console</button>
-  <button class="button" >XXX</button>
-  <md-divider class="vertical-divider"></md-divider>
-
-  <span class="filler"></span>
-  <div class="topnav" >
-    <input type="text" placeholder="Search..">
-  </div>
-
-  <button class="button" type="submit">Submit</button>
-
-
-</div>
-
+<app-toolbar></app-toolbar>
 
 <div class="content" role="main">
   <router-outlet></router-outlet>
 </div>
-
-
