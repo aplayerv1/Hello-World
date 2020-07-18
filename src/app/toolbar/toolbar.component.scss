@@ -1,6 +1,5 @@
 .toolbar {
   height: 60px;
-  margin: -8px;
   display: flex;
   align-items: center;
   background-color: #2c0325;
@@ -69,6 +68,10 @@
   overflow: hidden;
   background-color:#2c0325;
   float: right;
+
+  input {
+    margin-top: 0 !important;
+  }
 }
 
 /* Style the links inside the navigation bar */
