@@ -17,6 +17,11 @@ import { SanitizeHtmlPipe } from './pipe/sanitize-html.pipe';
 import { TvComponent } from './tv/tv.component';
 import { MoviesComponent } from './movies/movies.component';
 import { SettingsComponent } from './settings/settings.component';
+import { BooksComponent } from './books/books.component';
+import { AudioComponent } from './audio/audio.component';
+import { PcComponent } from './pc/pc.component';
+import { ConsoleComponent } from './console/console.component';
+import { XxxComponent } from './xxx/xxx.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +34,12 @@ import { SettingsComponent } from './settings/settings.component';
     SanitizeHtmlPipe,
     TvComponent,
     MoviesComponent,
-    SettingsComponent
+    SettingsComponent,
+    BooksComponent,
+    AudioComponent,
+    PcComponent,
+    ConsoleComponent,
+    XxxComponent
   ],
   imports: [
     BrowserModule,

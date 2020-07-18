@@ -1,0 +1,5 @@
+Registration Page
+expand search drop down, categories (example: Console -> 3DS, Wii)
+implement search ( ?t=search&q=linux into user search parameters ie (q=linux).)
+limit downloads to 10
+Login - mysql implementation with existing database ( create account, create RSS(hide rss unless payed), delete account)
