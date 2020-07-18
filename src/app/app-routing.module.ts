@@ -4,6 +4,7 @@ import { ContactComponent } from './contact/contact.component';
 import { MainComponent } from './main/main.component';
 import { StatusComponent } from './status/status.component';
 import { RssComponent } from './rss/rss.component';
+import { TvComponent } from './tv/tv.component';
  
 const routes: Routes = [{
   path: 'contact',
@@ -17,7 +18,11 @@ const routes: Routes = [{
 },{
   path: 'rss',
   component: RssComponent
+},{
+  path: 'tv',
+  component: TvComponent
 }
+
 ];
 
 @NgModule({

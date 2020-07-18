@@ -15,6 +15,8 @@ import { RssComponent } from './rss/rss.component';
 import { StatusComponent } from './status/status.component';
 import { SanitizeHtmlPipe } from './pipe/sanitize-html.pipe';
 import { TvComponent } from './tv/tv.component';
+import { MoviesComponent } from './movies/movies.component';
+import { SettingsComponent } from './settings/settings.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import { TvComponent } from './tv/tv.component';
     StatusComponent,
     RssComponent,
     SanitizeHtmlPipe,
-    TvComponent
+    TvComponent,
+    MoviesComponent,
+    SettingsComponent
   ],
   imports: [
     BrowserModule,
