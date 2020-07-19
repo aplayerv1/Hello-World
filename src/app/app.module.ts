@@ -23,6 +23,7 @@ import { PcComponent } from './pc/pc.component';
 import { ConsoleComponent } from './console/console.component';
 import { XxxComponent } from './xxx/xxx.component';
 import { ForumsComponent } from './forums/forums.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
@@ -41,7 +42,8 @@ import { ForumsComponent } from './forums/forums.component';
     PcComponent,
     ConsoleComponent,
     XxxComponent,
-    ForumsComponent
+    ForumsComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,

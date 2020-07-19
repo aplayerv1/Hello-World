@@ -12,6 +12,7 @@ import { PcComponent } from './pc/pc.component';
 import { ConsoleComponent } from './console/console.component';
 import { XxxComponent } from './xxx/xxx.component';
 import { SettingsComponent } from './settings/settings.component';
+import { RegisterComponent } from './register/register.component';
 
 const routes: Routes = [{
   path: 'contact',
@@ -49,6 +50,9 @@ const routes: Routes = [{
 },{
   path: 'settings',
   component: SettingsComponent
+},{
+  path: 'register',
+  component: RegisterComponent
 }
 
 ];
