@@ -22,6 +22,7 @@ import { AudioComponent } from './audio/audio.component';
 import { PcComponent } from './pc/pc.component';
 import { ConsoleComponent } from './console/console.component';
 import { XxxComponent } from './xxx/xxx.component';
+import { ForumsComponent } from './forums/forums.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +40,8 @@ import { XxxComponent } from './xxx/xxx.component';
     AudioComponent,
     PcComponent,
     ConsoleComponent,
-    XxxComponent
+    XxxComponent,
+    ForumsComponent
   ],
   imports: [
     BrowserModule,
