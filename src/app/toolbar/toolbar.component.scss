@@ -170,10 +170,21 @@ footer {
   }
 }
 
-.button1 {padding: 10px 24px;}
+.button1 {padding: 1px 24px;}
 input[type=text] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+}
+.inputtext[type=text] {
+  width: 10%;
+  padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.dropdown-menu{
+  width: 80%;
+  padding: 5px 5px;
+  margin: 8px 0;
 }
