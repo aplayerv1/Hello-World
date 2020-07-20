@@ -24,6 +24,7 @@ import { ConsoleComponent } from './console/console.component';
 import { XxxComponent } from './xxx/xxx.component';
 import { ForumsComponent } from './forums/forums.component';
 import { RegisterComponent } from './register/register.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -43,7 +44,8 @@ import { RegisterComponent } from './register/register.component';
     ConsoleComponent,
     XxxComponent,
     ForumsComponent,
-    RegisterComponent
+    RegisterComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

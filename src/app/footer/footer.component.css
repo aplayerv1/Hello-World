@@ -1,0 +1,15 @@
+.footer{
+    flex-shrink: 0;
+    flex-grow: 0;
+    background: #2c0325;
+    padding: 3px 15px;
+  }
+  .footerbar {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #2c0325;
+    color: white;
+    font-weight: 600;
+  
+}
