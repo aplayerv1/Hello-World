@@ -10,6 +10,7 @@ import { MainComponent } from './main/main.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { MatDividerModule } from '@angular/material/divider';
+import { MatFormFieldModule } from '@angular/material/form-field';
 import { FormsModule } from '@angular/forms';
 import { RssComponent } from './rss/rss.component';
 import { StatusComponent } from './status/status.component';
@@ -54,7 +55,8 @@ import { FooterComponent } from './footer/footer.component';
     MatMenuModule,
     BrowserAnimationsModule,
     HttpClientModule,
-    MatDividerModule
+    MatDividerModule,
+    MatFormFieldModule
   ],
   providers: [],
   bootstrap: [AppComponent],

@@ -1,0 +1,7 @@
+Site:
+  ☐ Registration Page @created(Wed 08/12/2020 - 01:22 PM)
+  ☐ expand search drop down, categories (example: Console -> 3DS, Wii) @created(Wed 08/12/2020 - 01:22 PM)
+  ☐ implement search ( ?t=search&q=linux into user search parameters ie (q=linux).) @created(Wed 08/12/2020 - 01:22 PM)
+  ☐ limit downloads to 10 @created(Wed 08/12/2020 - 01:22 PM)
+  ☐ Login - mysql implementation with existing database ( create account, create RSS(hide rss unless payed), delete account)
+  @created(Wed 08/12/2020 - 01:22 PM)
