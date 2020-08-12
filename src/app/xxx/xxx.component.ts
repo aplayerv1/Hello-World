@@ -14,7 +14,7 @@ export class XxxComponent implements OnInit {
   constructor() {
     const parser: RSSParser = new RSSParser();
     const CORS = 'https://cors-anywhere.herokuapp.com/';
-    const URL = 'http://176.79.3.203:8081/rss?t=6000&dl=1&i=1&r=25b01a2a137c0d48a8a9de404bb5a125';
+    const URL = 'http://mvia.ca:8081/rss?t=6000&dl=1&i=1&r=25b01a2a137c0d48a8a9de404bb5a125';
     parser.parseURL(CORS + URL, (error, resp: Nzedb) => {
       if (!error) {
         this.data = resp;
