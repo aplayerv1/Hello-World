@@ -6,10 +6,23 @@
   <div class="dropdown">
     <button class="button">Menu</button>
     <div class="dropdown-content">
-      <button mat-menu-item>Forums</button>
-      <button mat-menu-item routerLink="status">Status</button>
-      <button mat-menu-item routerLink="settings">Settings</button>
+      <table class="table table-responsive">
+        <thead>
+        </thead>
+        <tbody>
+          <tr>
+            <button mat-menu-item class="button1">Forums</button>
+          </tr>
+          <tr>
+            <button mat-menu-item class="button1" routerLink="status">Status</button>
+          </tr>
+          <tr>
+            <button mat-menu-item class="button1" routerLink="settings">Settings</button>
+          </tr>
+        </tbody>
+      </table>
     </div>
+
   </div>
 
   <button class="button" routerLink="contact">Contact</button>
@@ -29,9 +42,9 @@
   
   <span class="filler"></span>
   
-  <input type="text" class="inputtext" placeholder="Search..">
+  <input type="text" class="inputsearch" size=4 placeholder="Search..">
   
-  <mat-form-field appearance="fill">
+  <mat-form-field [hideRequiredMarker]="hideRequiredControl.value" [floatLabel]="floatLabelControl.value" appearance="fill">
     <mat-label></mat-label>
     <select class="dropdown-menu"matNativeControl required>
       <option value="TV">TV</option>
@@ -43,6 +56,8 @@
       <option value="XXX">XXX</option>
     </select>
   </mat-form-field>
+
+  
   
   <button class="button" type="submit">Submit</button>
 
@@ -52,10 +67,10 @@
     <button class="button"><span class="material-icons">login</span></button>
     <div class="dropdown-left">
     <div>
-      <input type="text" size=4 placeholder="Login">
+      <input class="inputtext" type="text" size=10 placeholder="Login">
     </div>
     <div>
-      <input type="text" size=4 placeholder="Password">
+      <input class="inputtext" type="text" size=10 placeholder="Password">
     </div>
       <table class="table table-responsive">
         <thead>
