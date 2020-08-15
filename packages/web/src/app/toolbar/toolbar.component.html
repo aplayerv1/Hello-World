@@ -43,10 +43,10 @@
   <span class="filler"></span>
   
   <input type="text" class="inputsearch" size=4 placeholder="Search..">
-  
-  <mat-form-field [hideRequiredMarker]="hideRequiredControl.value" [floatLabel]="floatLabelControl.value" appearance="fill">
+
+  <mat-form-field appearance="fill" [hideRequiredMarker]="hideRequiredControl.value" [floatLabel]="floatLabelControl.value" ngbDropdownToggle>
     <mat-label></mat-label>
-    <select class="dropdown-menu"matNativeControl required>
+    <select matNativeControl required class="dropdown-menu" >
       <option value="TV">TV</option>
       <option value="Movies">Movies</option>
       <option value="Books">Books</option>
@@ -56,9 +56,7 @@
       <option value="XXX">XXX</option>
     </select>
   </mat-form-field>
-
-  
-  
+ 
   <button class="button" type="submit">Submit</button>
 
   <mat-divider class="vertical-divider"></mat-divider>
