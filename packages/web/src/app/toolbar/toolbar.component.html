@@ -39,13 +39,12 @@
   <button class="button" routerLink="xxx">XXX</button>
 
   <mat-divider class="vertical-divider"></mat-divider>
-  
+
   <span class="filler"></span>
-  
+
   <input type="text" class="inputsearch" size=4 placeholder="Search..">
 
-  <mat-form-field appearance="fill" [hideRequiredMarker]="hideRequiredControl.value" [floatLabel]="floatLabelControl.value" ngbDropdownToggle>
-    <mat-label></mat-label>
+  <mat-form-field appearance="fill" ngbDropdownToggle>
     <select matNativeControl required class="dropdown-menu" >
       <option value="TV">TV</option>
       <option value="Movies">Movies</option>
@@ -56,30 +55,30 @@
       <option value="XXX">XXX</option>
     </select>
   </mat-form-field>
- 
+
   <button class="button" type="submit">Submit</button>
 
   <mat-divider class="vertical-divider"></mat-divider>
 
-  <div class="dropdown">
+  <form class="dropdown" (key.enter)="login()">
     <button class="button"><span class="material-icons">login</span></button>
     <div class="dropdown-left">
     <div>
-      <input class="inputtext" type="text" size=10 placeholder="Login">
+      <input class="inputtext" type="text" size=10 placeholder="Login" [(ngModel)]="form.username" name="username">
     </div>
     <div>
-      <input class="inputtext" type="text" size=10 placeholder="Password">
+      <input class="inputtext" type="text" size=10 placeholder="Password" [(ngModel)]="form.password" name="password">
     </div>
       <table class="table table-responsive">
         <thead>
         </thead>
         <tbody>
           <tr>
-            <td><button class="button1" mat-menu-item>Login</button></td>
+            <td><button class="button1" mat-menu-item (click)="login()">Login</button></td>
             <td><button class="button1" mat-menu-item routerLink="register">Register</button></td>
           </tr>
         </tbody>
       </table>
     </div>
-  </div>
+  </form>
 </div>

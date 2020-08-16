@@ -1,3 +1,5 @@
+import { LOGIN } from './../queries/Login';
+import { Apollo } from 'apollo-angular';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,10 +8,28 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./toolbar.component.scss']
 })
 export class ToolbarComponent implements OnInit {
+  form = {
+    username: null,
+    password: null
+  }
 
-  constructor() { }
+  constructor(
+    private apollo: Apollo
+  ) { }
 
   ngOnInit(): void {
+  }
+
+  login(): void {
+    this.apollo.mutate({
+      mutation: LOGIN,
+      variables: {
+        email: this.form.username,
+        password: this.form.password
+      }
+    }).subscribe((res) => {
+      console.log(res);
+    })
   }
 
 }
