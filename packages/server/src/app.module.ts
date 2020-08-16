@@ -11,6 +11,7 @@ import { UserModule } from './user/user.module';
       isGlobal: true
     }),
     GraphQLModule.forRoot({
+      context: ({req, res }) => ({req, res}),
       autoSchemaFile: 'schema.gql',
       installSubscriptionHandlers: true
     }),

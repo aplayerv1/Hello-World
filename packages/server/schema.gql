@@ -1,0 +1,26 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type UserEntity {
+  id: ID!
+  username: String
+  password: String
+}
+
+type AuthEntity {
+  valid: Boolean!
+}
+
+type Query {
+  user: [UserEntity!]!
+}
+
+type Mutation {
+  login(login: LoginInput!): AuthEntity!
+}
+
+input LoginInput {
+  username: String!
+  password: String!
+}

@@ -12,7 +12,8 @@
     "baseUrl": "./",
     "incremental": true,
     "moduleResolution": "node",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "esModuleInterop": true,
   },
   "exclude": [
     "node_modules",
