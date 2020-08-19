@@ -44,7 +44,8 @@
 
   <input type="text" class="inputsearch" size=4 placeholder="Search..">
 
-  <mat-form-field appearance="fill" ngbDropdownToggle>
+  <mat-form-field appearance="fill" [hideRequiredMarker]="hideRequiredControl.value" [floatLabel]="floatLabelControl.value" >
+    <mat-label></mat-label>
     <select matNativeControl required class="dropdown-menu" >
       <option value="TV">TV</option>
       <option value="Movies">Movies</option>
