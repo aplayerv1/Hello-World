@@ -3,12 +3,16 @@
     flex-grow: 0;
     background: #2c0325;
     padding: 3px 15px;
+    
   }
   .footerbar {
     height: 60px;
     display: flex;
+    text-align: center;
     align-items: center;
     background-color: #2c0325;
     color: white;
     font-weight: 600;
+    display: flex;
+    justify-content: center;
 }
